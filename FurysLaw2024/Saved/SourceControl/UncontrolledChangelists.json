@@ -5,15 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/PPDesert/Scenes/Desert_DynamicLighting.umap",
-				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/PPDesert/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
-				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/BP_Locomotion.uasset",
-				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/AdvancedLocomotionV4/Blueprints/GameModes/ALS_GameMode_SP.uasset",
 				"D:/FurysLaw2024/FurysLaw2024/Content/PPDesert/Assets/Textures/Environment/Terrain/T_Terrain_Rocks_BC.uasset",
 				"D:/FurysLaw2024/FurysLaw2024/Content/PPDesert/Assets/Textures/Environment/Terrain/T_Terrain_StrongSand_BC.uasset",
 				"D:/FurysLaw2024/FurysLaw2024/Content/PPDesert/Assets/Textures/Environment/Terrain/T_Terrain_MicroSand_BC.uasset",
 				"D:/FurysLaw2024/FurysLaw2024/Content/PPDesert/Scenes/Desert_DynamicLighting.umap",
-				"D:/FurysLaw2024/FurysLaw2024/Content/PPDesert/Assets/Materials/Environment/Terrain/MI_Terrain.uasset"
+				"D:/FurysLaw2024/FurysLaw2024/Content/PPDesert/Assets/Materials/Environment/Terrain/MI_Terrain.uasset",
+				"D:/FurysLaw2024/FurysLaw2024/Content/Map/LevelDesign.umap",
+				"D:/FurysLaw2024/FurysLaw2024/Content/PPDesert/Assets/Procedural/ProceduralSpawner_Foliage.uasset",
+				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/PPDesert/Scenes/Desert_DynamicLighting.umap",
+				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/PPDesert/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/BP_Locomotion.uasset",
+				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/AdvancedLocomotionV4/Blueprints/GameModes/ALS_GameMode_SP.uasset"
 			]
 		}
 	]
