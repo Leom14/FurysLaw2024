@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal engine 5/Projects/FurysLaw2024/FurysLaw2024/Content/Maps/Blockout/LDHugo.umap",
+				"D:/Unreal engine 5/Projects/FurysLaw2024/FurysLaw2024/Content/Maps/LDHugo.umap",
+				"D:/Unreal engine 5/Projects/FurysLaw2024/FurysLaw2024/Content/Maps/Blockout/Maps/LDHugo.umap",
 				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/PPDesert/Scenes/Desert_DynamicLighting.umap",
 				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/PPDesert/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
 				"D:/GitHub/FurysLaw2024/FurysLaw2024/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/BP_Locomotion.uasset",
